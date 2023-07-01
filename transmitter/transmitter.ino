@@ -1,6 +1,18 @@
+/*************************************************************************************************
+ *  Created By: Tauseef Ahmad
+ *  Created On: 1 July, 2023
+ *  
+ *  YouTube Video: https://youtu.be/XNE0Qm0NdLg
+ *  My Channel: https://www.youtube.com/@AhmadLogs
+ *  *********************************************************************************************
+ *  Install the following libraries :
+ *  1. AltSoftSerial - https://github.com/PaulStoffregen/AltSoftSerial
+ *  2. TinyGPSPlus - Version 1.0.3
+ ***********************************************************************************************/
+
 #include <SoftwareSerial.h>
-#include <AltSoftSerial.h> //https://github.com/PaulStoffregen/AltSoftSerial
-#include <TinyGPSPlus.h> //1.0.3
+#include <AltSoftSerial.h>
+#include <TinyGPSPlus.h>
 
 #define L_RX 3
 #define L_TX 2
